@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["service"],{e2f8:function(e,n,s){"use strict";s.r(n);var t=function(){var e=this,n=e._self._c;return n("div",[n("my-header"),n("div",{staticClass:"serviceContainer"},[e._v("联系客服")]),n("my-footer")],1)},i=[],r={},a=r,c=s("2877"),o=Object(c["a"])(a,t,i,!1,null,"688081b9",null);n["default"]=o.exports}}]);
+//# sourceMappingURL=service.ade19efc.js.map
