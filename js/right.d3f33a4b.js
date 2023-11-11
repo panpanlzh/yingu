@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["right"],{"4cf0":function(e,t,n){"use strict";n.r(t);var a=function(){var e=this,t=e._self._c;return t("div",[t("my-header"),t("div",{staticClass:"serviceContainer"},[e._v("会员权益")]),t("my-footer")],1)},i=[],r={},s=r,c=n("2877"),o=Object(c["a"])(s,a,i,!1,null,"9a1c769a",null);t["default"]=o.exports}}]);
-//# sourceMappingURL=right.d3f33a4b.js.map

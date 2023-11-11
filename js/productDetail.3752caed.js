@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["productDetail"],{"5f47":function(t,e,i){"use strict";i.r(e);var n=function(){var t=this,e=t._self._c;return e("div",[e("my-header"),e("div",{staticClass:"productDetailContainer"},[t._v(t._s(t.pid)+"产品详情")]),e("my-footer")],1)},o=[],r={props:["pid"]},s=r,a=i("2877"),p=Object(a["a"])(s,n,o,!1,null,"1e85682e",null);e["default"]=p.exports}}]);
-//# sourceMappingURL=productDetail.3752caed.js.map
