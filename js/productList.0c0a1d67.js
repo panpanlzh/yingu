@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["productList"],{"96fc":function(t,e,n){"use strict";n.r(e);var s=function(){var t=this,e=t._self._c;return e("div",[e("my-header"),e("div",{staticClass:"productListContainer"},[t._v("产品列表")]),e("my-footer")],1)},i=[],o={},r=o,c=n("2877"),a=Object(c["a"])(r,s,i,!1,null,"e331e564",null);e["default"]=a.exports}}]);
+//# sourceMappingURL=productList.0c0a1d67.js.map
